@@ -33,3 +33,11 @@ print(f and f)
 #3.3. not (negacion)
 print(not v )
 print(not f)
+
+#operadores de asignacion
+#suma y asigna (+=)
+print("-----------------------+")
+edad = 20
+
+edad += 5
+print(edad)
